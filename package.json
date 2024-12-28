@@ -1,0 +1,11 @@
+{
+  "name": "huzz-rizz",
+  "version": "1.0.2",
+  "description": "level up your rizz with the huzz",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "huzz-rizz": "file:"
+  }
+}
