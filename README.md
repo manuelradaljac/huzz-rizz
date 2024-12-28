@@ -2,6 +2,10 @@
 
 **Huzz-Rizz** is a lightweight JavaScript library that provides a charming greeting message to add a touch of humor and personality to your projects.
 
+## Repository
+
+https://github.com/manuelradaljac/huzz-rizz
+
 ## Installation
 
 Install the package using npm or your desired package manager:
